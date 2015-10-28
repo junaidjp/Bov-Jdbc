@@ -2,6 +2,9 @@ package com.bov.dto;
 
 public class UserExtended extends User{
 	
+	/**
+	 * change the values 
+	 */
 	public String emailAddress;
 
 	public String getEmailAddress() {
